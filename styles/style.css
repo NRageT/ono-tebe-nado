@@ -64,15 +64,14 @@ html {
 .header__logo-link {
   margin-left: 35px; 
 }
-.cover{
+.cover {
   width: 1100px;
   height: 757px;
   margin-bottom: 179px;
   background-image:url(../images/lotus-flower.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
-  
+  background-size: contain; 
 }
 .cover-card {
   position: relative;
@@ -83,7 +82,7 @@ html {
   height: 757px;
 }
 
-.cover-text{
+.cover-text {
   z-index: 2;
   display: flex;
   flex-direction: column;
@@ -94,7 +93,7 @@ html {
   font-size: 100px;
   text-transform: uppercase;
 }
-.cover-text-top{
+.cover-text-top {
   flex-direction: row;
   margin-top: 165px;
   margin-bottom: 20px;
@@ -105,14 +104,14 @@ html {
   letter-spacing: 0.6em;
 }
 
-.cover-text-middle{
+.cover-text-middle {
   flex-direction: row;
   justify-content: center;
   margin-bottom: 20px;
   line-height: 100px;
   letter-spacing: 0.3em;
 }
-.cover-text-bottom{
+.cover-text-bottom {
   flex-direction: row;
   justify-content: end;
   margin-bottom: 111px;
@@ -135,7 +134,7 @@ html {
   color: #fff;
   text-transform: uppercase;
 }
-.cover-discription{
+.cover-discription {
   z-index: 2;
   display: flex;
   margin-left: 79px;
@@ -411,7 +410,7 @@ html {
   width: 240px;
   height: 48px;
 }
-.footer__image{
+.footer__image {
   width: 48px;
   height: 48px;    
 }
