@@ -22,7 +22,7 @@ html {
   padding-left: 26px;
   list-style-type: none;
 }
-.header__menu-lots { 
+.header__menu-lots {
   margin-right: 32px;
   border-bottom: #000 1px solid;
   letter-spacing: 0.01em;
@@ -40,7 +40,7 @@ html {
 .header__adress {
   width: 240.52px;
   height: 98px;
-  margin-top: 6px; 
+  margin-top: 6px;
   margin-left: 186px;
   font-family: Raleway;
   font-weight: normal;
@@ -62,7 +62,7 @@ html {
   height: 105px;
 }
 .header__logo-link {
-  margin-left: 35px; 
+  margin-left: 35px;
 }
 .cover {
   width: 1100px;
@@ -71,7 +71,7 @@ html {
   background-image:url(../images/lotus-flower.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain; 
+  background-size: contain;
 }
 .cover-card {
   position: relative;
@@ -120,7 +120,7 @@ html {
   text-align:right;
 }
 .cover__letter-three {
-  letter-spacing: 0.3em; 
+  letter-spacing: 0.3em;
 }
 .cover__letter-null {
   letter-spacing: 0em;
@@ -148,10 +148,10 @@ html {
   letter-spacing: 0.9em;
 }
 .cover-about-whitespace-two {
-  letter-spacing: 0.8em; 
+  letter-spacing: 0.8em;
 }
 .cover-about-whitespace-three {
-  letter-spacing: 0.85em; 
+  letter-spacing: 0.85em;
 }
 .cover-about-button {
   z-index: 2;
@@ -192,7 +192,7 @@ html {
   font-family: Raleway;
   font-weight: 700;
   font-size: 40px;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 .lots_card {
   display: flex;
@@ -218,7 +218,7 @@ html {
   width: 334px;
   height: 563px;
   opacity: 0.6;
-  background-color: #000; 
+  background-color: #000;
 }
 .card-header {
   z-index: 2;
@@ -359,7 +359,7 @@ html {
   height: 168px;
 }
 .letter-four {
-  letter-spacing: 0.04em; 
+  letter-spacing: 0.04em;
 }
 .footer {
   display: flex;
@@ -387,7 +387,7 @@ html {
 }
 .footer-nav-lots {
   text-decoration: 1px underline;
-  text-underline-offset: 3px; 
+  text-underline-offset: 3px;
   list-style-type: none;
 }
 .footer-nav-about {
@@ -395,14 +395,13 @@ html {
   text-underline-offset: 3px;
   list-style-type: none;
 }
-.footer-contact {  
+.footer-contact {
   width: 240.52px;
   height: 98px;
   font-family: Raleway;
   font-weight: 400;
   font-size: 18px;
-  line-height: 24.3px; 
-  
+  line-height: 24.3px;
 }
 .footer__social {
   display: flex;
@@ -412,5 +411,5 @@ html {
 }
 .footer__image {
   width: 48px;
-  height: 48px;    
+  height: 48px;
 }
