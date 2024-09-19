@@ -61,7 +61,6 @@ letter-spacing: normal;
   width: 148px;
   height: 106px;
   margin-left: 34px;
-  
 }
 .cover {
   width: 1100px;
@@ -118,7 +117,6 @@ display: block;
   letter-spacing: 0em;
 }
 .cover-about {
-  
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -193,7 +191,7 @@ display: block;
 }
 .lots_card-item {
 position: relative;
-display: flex; 
+display: flex;
 }
 .lots__link {
   display: flex;
@@ -344,7 +342,7 @@ letter-spacing: normal;
 .footer__link-list {
   display: flex;
   flex-direction: column;
-  align-items: center; 
+  align-items: center;
 }
 .footer__links-list-item {
   list-style-type: none;
